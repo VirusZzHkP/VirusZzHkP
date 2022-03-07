@@ -2,7 +2,7 @@
 
 
 [![website](./img/instagram-light.svg)](https://www.instagram.com/lyadhkhor_hrisi#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/lyadhkhor_hrisi#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/lyadhkhor_hrisi#gh-dark-mode-only) 
 [![website](./img/twitter-light.svg)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=hrisikesh_pal#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=hrisikesh_pal#gh-dark-mode-only)
 ## I'm a Cyber Security Student, and Developer!!
@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://viruszzwarning.medium.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://viruszzwarning.medium.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/hrisikesh_pal#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/hrisikesh_pal#gh-dark-mode-only)
