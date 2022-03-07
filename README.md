@@ -51,44 +51,21 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Ways of Making Money for Introvert Developers &amp; Designers](https://sk-soyeb-akhter.medium.com/ways-of-making-money-for-introvert-developers-designers-923a081193ed?source=rss-2031c928a537------2)
+- [WooCommerce VS Shopify | The E-Commerce Battle | 2022](https://sk-soyeb-akhter.medium.com/woocommerce-vs-shopify-the-e-commerce-battle-2022-3efadb6dbe2a?source=rss-2031c928a537------2)
+- [Top 2 Profitable Passive Income Streams To Start For Free Online](https://sk-soyeb-akhter.medium.com/top-2-profitable-passive-income-streams-to-start-for-free-online-cc8c245a244?source=rss-2031c928a537------2)
+- [Top 5 Free Certificate Courses For Programmers To Find Job | 2022](https://sk-soyeb-akhter.medium.com/top-5-free-certificate-courses-for-programmers-to-find-job-2022-5589bc367c2d?source=rss-2031c928a537------2)
+- [Technologies that will drastically change the future life](https://sk-soyeb-akhter.medium.com/technologies-that-will-drastically-change-the-future-life-afe82de1a13c?source=rss-2031c928a537------2)
+- [Top 5 Free Sources to Learn &amp; Practice Go Language](https://sk-soyeb-akhter.medium.com/top-5-free-sources-to-learn-practice-go-language-ac3b762ddbf9?source=rss-2031c928a537------2)
+- [Setting Up Next.js with Tailwind CSS &amp; Typescript](https://sk-soyeb-akhter.medium.com/setting-up-next-js-with-tailwind-css-typescript-7a1109e00549?source=rss-2031c928a537------2)
+- [Setting Up Programming Environment for Linux Users](https://sk-soyeb-akhter.medium.com/setting-up-programming-environment-for-linux-users-73c5049b424?source=rss-2031c928a537------2)
+- [Awesome JavaScript Packages for React Development| Top 5 | Node.js](https://sk-soyeb-akhter.medium.com/awesome-javascript-packages-for-react-development-top-5-node-js-481ca459caa5?source=rss-2031c928a537------2)
+- [3 Simple Steps To Write Beautiful &amp; Better Code](https://sk-soyeb-akhter.medium.com/3-simple-steps-to-write-beautiful-better-code-b180b34c1543?source=rss-2031c928a537------2)
+<!-- BLOG-POST-LIST:END -->
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-2. 💪 Opened PR [#1580](https://github.com/anuraghazra/github-readme-stats/pull/1580) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-5. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-<!--END_SECTION:activity-->
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
