@@ -1,4 +1,4 @@
-# Hi there, I'm Hrisikesh Pal - aka [VirusZzHkP][youtube] 👋 
+# Hi there, I'm Hrisikesh Pal - aka [VirusZzHkP][https://viruszzwarning.medium.com] 👋 
 
 
 [![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/lyadhkhor_hrisi/)
@@ -32,20 +32,17 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ways of Making Money for Introvert Developers &amp; Designers](https://sk-soyeb-akhter.medium.com/ways-of-making-money-for-introvert-developers-designers-923a081193ed?source=rss-2031c928a537------2)
-- [WooCommerce VS Shopify | The E-Commerce Battle | 2022](https://sk-soyeb-akhter.medium.com/woocommerce-vs-shopify-the-e-commerce-battle-2022-3efadb6dbe2a?source=rss-2031c928a537------2)
-- [Top 2 Profitable Passive Income Streams To Start For Free Online](https://sk-soyeb-akhter.medium.com/top-2-profitable-passive-income-streams-to-start-for-free-online-cc8c245a244?source=rss-2031c928a537------2)
-- [Top 5 Free Certificate Courses For Programmers To Find Job | 2022](https://sk-soyeb-akhter.medium.com/top-5-free-certificate-courses-for-programmers-to-find-job-2022-5589bc367c2d?source=rss-2031c928a537------2)
-- [Technologies that will drastically change the future life](https://sk-soyeb-akhter.medium.com/technologies-that-will-drastically-change-the-future-life-afe82de1a13c?source=rss-2031c928a537------2)
-- [Top 5 Free Sources to Learn &amp; Practice Go Language](https://sk-soyeb-akhter.medium.com/top-5-free-sources-to-learn-practice-go-language-ac3b762ddbf9?source=rss-2031c928a537------2)
-- [Setting Up Next.js with Tailwind CSS &amp; Typescript](https://sk-soyeb-akhter.medium.com/setting-up-next-js-with-tailwind-css-typescript-7a1109e00549?source=rss-2031c928a537------2)
-- [Setting Up Programming Environment for Linux Users](https://sk-soyeb-akhter.medium.com/setting-up-programming-environment-for-linux-users-73c5049b424?source=rss-2031c928a537------2)
-- [Awesome JavaScript Packages for React Development| Top 5 | Node.js](https://sk-soyeb-akhter.medium.com/awesome-javascript-packages-for-react-development-top-5-node-js-481ca459caa5?source=rss-2031c928a537------2)
-- [3 Simple Steps To Write Beautiful &amp; Better Code](https://sk-soyeb-akhter.medium.com/3-simple-steps-to-write-beautiful-better-code-b180b34c1543?source=rss-2031c928a537------2)
-<!-- BLOG-POST-LIST:END -->
+- [Attach Payload to an Image File](https://systemweakness.com/attach-payload-to-an-executable-file-22465743c617?source=rss-2031c928a537------2)
+- [Finger Controls, Screen Brightness](https://systemweakness.com/finger-controls-screen-brightness-644ea09ce7de?source=rss-2031c928a537------2)
+- [Cam Phishing](https://systemweakness.com/cam-phishing-d081a222cde1?source=rss-2031c928a537------2)
+- [Trace Exact Location](https://systemweakness.com/trace-exact-location-101ff4f963a4?source=rss-2031c928a537------2)
+- [Text to Speech Converter](https://systemweakness.com/text-to-speech-converter-b9a7192fec97?source=rss-2031c928a537------2)
+- [TEXT-Encryption & Decryption](https://systemweakness.com/text-encryption-decryption-9e3204ed2fe9?source=rss-2031c928a537------2)
+- [MR. Robot](https://systemweakness.com/mr-robot-519759701ebd?source=rss-2031c928a537------2)
+
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://viruszzwarning.medium.com/)
 
 ---
 
