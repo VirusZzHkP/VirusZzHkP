@@ -1,7 +1,9 @@
 # Hi there, I'm Hrisikesh Pal - aka [VirusZzHkP](https://viruszzwarning.medium.com) 👋 
 
 
-[![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/lyadhkhor_hrisi/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/lyadhkhor_hrisi#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/lyadhkhor_hrisi#gh-dark-mode-only)
+
 [![website](./img/twitter-light.svg)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=hrisikesh_pal#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=hrisikesh_pal#gh-dark-mode-only)
 ## I'm a Cyber Security Student, and Developer!!
