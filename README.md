@@ -2,8 +2,8 @@
 
 
 [![Website](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/lyadhkhor_hrisi/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hrisikesh_pal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=hrisikesh_pal)(https://o.remove.bg/downloads/70c11128-b68b-4b98-b66b-9387f478e70e/39-390541_twitter-button-png-image-free-download-searchpng-graphic-removebg-preview.png)
-
+[![website](./img/twitter-light.svg)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=hrisikesh_pal#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=hrisikesh_pal#gh-dark-mode-only)
 ## I'm a Cyber Security Student, and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
