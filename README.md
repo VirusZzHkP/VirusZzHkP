@@ -1,6 +1,6 @@
 # Hi there, I'm Hrisikesh Pal - aka [VirusZzHkP](https://viruszzwarning.medium.com) 👋 
 
- Follow Me Directly on Twitter : &nsbp
+ Follow Me Directly on Twitter : 
 [![website](./img/twitter-light.svg)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=hrisikesh_pal#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=hrisikesh_pal#gh-dark-mode-only)
 ## I'm a Cyber Security Student, and Developer!!
