@@ -1,8 +1,6 @@
 # Hi there, I'm Hrisikesh Pal - aka [VirusZzHkP](https://viruszzwarning.medium.com) 👋 
 
-
-[![website](./img/instagram-light.svg)](https://www.instagram.com/lyadhkhor_hrisi#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/lyadhkhor_hrisi#gh-dark-mode-only) 
+ 
 [![website](./img/twitter-light.svg)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=hrisikesh_pal#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=hrisikesh_pal#gh-dark-mode-only)
 ## I'm a Cyber Security Student, and Developer!!
@@ -21,8 +19,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/viruszzwarning#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/viruszzwarning#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/lyadhkhor_hrisi#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/lyadhkhor_hrisi#gh-dark-mode-only)
+
 
 
 <br />
