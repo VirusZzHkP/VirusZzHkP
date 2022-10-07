@@ -62,6 +62,9 @@
 
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 
+<img alt="C Language" src="https://img.shields.io/badge/-C%20Language-blue?style=for-the-badge&logo=C&logoColor=white" />
+
+<img alt="C++" src="https://img.shields.io/badge/-c++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 <p align="center">
