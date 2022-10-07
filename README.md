@@ -57,15 +57,11 @@
 
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-45b8d8?style=for-the-badge&logo=php&logoColor=white" />
 
-<img alt="Laravel" src="https://img.shields.io/badge/-Laravel-DD0031?style=for-the-badge&logo=laravel&logoColor=white" />
-
 <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F9A03C?style=for-the-badge&logo=laravel&logoColor=white" />
 
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-green?style=for-the-badge&logo=Bootstrap&logoColor=white" />
-
-<img alt="Vue" src="https://img.shields.io/badge/-Vue.js-blueviolet?style=for-the-badge&logo=Vue.js&logoColor=white" />
 
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
 
