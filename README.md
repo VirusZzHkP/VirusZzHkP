@@ -58,7 +58,7 @@
 
 <img alt="Github" src="https://img.shields.io/badge/-GitHub-grey?style=for-the-badge&logo=Github&logoColor=white" />
 
-<img alt="NPM" src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-python-3670A0?style=for-the-badge&logo=python&logoColor=yellow" />
 
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 
