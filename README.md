@@ -1,7 +1,7 @@
 # Hi there, I'm Hrisikesh Pal - aka [VirusZzHkP](https://viruszzwarning.medium.com) 👋 
 
 
-## I'm Cyber Security Student || Web Developer ||CTF Player for '![W4NN4 B3 3L1735](https://ctftime.org/login/?next=/team/194276)' ||
+## I'm Cyber Security Student || Web Developer ||CTF Player for '[W4NN4 B3 3L1735](https://ctftime.org/login/?next=/team/194276)' ||
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to draw and play mobile games
