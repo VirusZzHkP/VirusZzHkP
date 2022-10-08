@@ -4,11 +4,8 @@
 ## I'm Cyber Security Student || Web Developer ||CTF Player for '[W4NN4 B3 3L1735](https://ctftime.org/team/194276)' ||
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to draw and play mobile games![Rose Gold Brush Glitter Feminine Boutique Circle Logo](https://user-images.githubusercontent.com/76624193/194721881-7613da6c-0709-4583-b1c4-2644cfaf3ca5.gif)
-
-
-
-
+- ⚡ Fun fact: I love to draw and play mobile games
+<img style="float: right;" src="VirusZzWarning.gif">
 
 ---
 <a target="_blank" href="https://officialhrisikesh.000webhostapp.com/"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Website%20Status&logo=tryhackme&logoColor=white&style=flat-square&up_message=Online&url=https%3A%2F%2Fofficialhrisikesh.000webhostapp.com%2F">
