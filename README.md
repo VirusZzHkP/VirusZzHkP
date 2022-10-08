@@ -77,8 +77,9 @@
 <h3>Make sure to stay connected 🤗 </h3>
 <p><a href="https://github.com/VirusZzHkP" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/viruszzwarning" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/hrisikesh_pal" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/hrisikesh_pal?color=blue&logoColor=yellow&style=for-the-badge">
-<a href="https://www.youtube.com/channel/UC8TBVNC_3-Qnk7Nj3zJMeNA?sub_confirmation=1" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC8TBVNC_3-Qnk7Nj3zJMeNA?style=for-the-badge">
+<a href="https://twitter.com/hrisikesh_pal" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/hrisikesh_pal?color=blue&logoColor=yellow&style=for-the-badge"></a>
+<a href="https://www.youtube.com/channel/UC8TBVNC_3-Qnk7Nj3zJMeNA?sub_confirmation=1" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC8TBVNC_3-Qnk7Nj3zJMeNA?style=for-the-badge"></a>
+<a href="https://viruszzwarning.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
 
