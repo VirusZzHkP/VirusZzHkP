@@ -4,7 +4,8 @@
 ## I'm Cyber Security Student || Web Developer ||CTF Player for '[W4NN4 B3 3L1735](https://ctftime.org/team/194276)' ||
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to draw and play mobile games
+- ⚡ Fun fact: I love to draw and play mobile games![Rose Gold Brush Glitter Feminine Boutique Circle Logo](https://user-images.githubusercontent.com/76624193/194721881-7613da6c-0709-4583-b1c4-2644cfaf3ca5.gif)
+
 
 
 
