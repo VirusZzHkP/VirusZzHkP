@@ -27,24 +27,6 @@
 &nbsp;&nbsp;
 
 
-
-
----
-
-### 📕 Latest Blog Posts
-<div>
-  <div align="left"><!-- BLOG-POST-LIST:START -->
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@viruszzwarning/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@viruszzwarning/0" alt="Recent Article 0"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@viruszzwarning/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@viruszzwarning/1" alt="Recent Article 1"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@viruszzwarning/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@viruszzwarning/2" alt="Recent Article 2"></a> <br>
-<!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://viruszzwarning.medium.com/)
-
-  <div align="right"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/VirusZzHkP/VirusZzHkP/blob/main/devcard.svg" width="205" alt="Hrisikesh Pal's Dev Card"/></a>
-</div>
-</div></div>
-
----
 <h3>Things I code with</h3>
 <p>
 
@@ -73,12 +55,37 @@
 <img alt="C++" src="https://img.shields.io/badge/-c++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
+
+
+
+---
+
 <p align="center">
 <a href="https://github.com/VirusZzHkP"><img src="https://github-readme-stats.vercel.app/api?username=VirusZzHkP&count_private=true&show_icons=true&theme=midnight-purple&line_height=48&custom_title=Github_Stats&hide=stars&include_all_commits&card_width=205" align="center"></a>
 <a href="https://github.com/VirusZzHkP"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirusZzHkP&count_private=true&hide=html,scss,,ejs&theme=midnight-purple&card_width=205" align="center"></a>
 </p>
-  
 
+
+---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=F7F7F7&width=435&lines=My+DEV+Card...)](https://git.io/typing-svg)
+<div align="center">
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/VirusZzHkP/VirusZzHkP/blob/main/devcard.svg" width="270" alt="Hrisikesh Pal's Dev Card"/></a>
+</div>
+
+---
+
+
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@viruszzwarning/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@viruszzwarning/0" alt="Recent Article 0"></a>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@viruszzwarning/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@viruszzwarning/1" alt="Recent Article 1"></a>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@viruszzwarning/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@viruszzwarning/2" alt="Recent Article 2"></a> <br>
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://viruszzwarning.medium.com/)
+
+---
 
 <h3>Make sure to stay connected 🤗 </h3>
 <p><a href="https://github.com/VirusZzHkP" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
