@@ -10,7 +10,7 @@
 ---
 <a target="_blank" href="https://officialhrisikesh.000webhostapp.com/"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Website%20Status&logo=tryhackme&logoColor=white&style=flat-square&up_message=Online&url=https%3A%2F%2Fofficialhrisikesh.000webhostapp.com%2F">
 
-![](https://komarev.com/ghpvc/?username=VirusZzHkP&style=flat-square&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=VirusZzHkP&style=flat-square&color=red)
 
   
 ### Connect with me:
