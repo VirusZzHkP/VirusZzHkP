@@ -1,16 +1,29 @@
-# Hi there, I'm Hrisikesh Pal - aka [VirusZzWarning](https://viruszzwarning.medium.com) 👋 
+# Hi there, I'm Hrisikesh Pal - aka [VirusZzWarning](https://viruszzwarning.medium.com)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="39"> 
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20Student;Web%20Developer;UI%20Designer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=F7D300Center=true&size=22&pause=1000"></a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC8TBVNC_3-Qnk7Nj3zJMeNA"><img height="32px" alt="JustHack IT" title="Youtube" src="https://www.linkpicture.com/q/Just_Hack_3_-removebg-preview.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/hrisikesh_pal"><img height="31px" alt="Twitter" title="Twitter" src="https://i.imgur.com/b4Nmq13.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/viruszzwarning"><img height="32px" alt="Dev.to" title="VirusZzWarning Dev.to" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.buymeacoffee.com/hrisikesh"><img height="32px" alt="buymeacoffee" title="Buy me a coffee" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  </p>
 
 
-## I'm Cyber Security Student || Web Developer ||CTF Player for '[W4NN4 B3 3L1735](https://ctftime.org/team/194276)' ||
 
-- 🌱 I’m currently learning everything 🤣
+- Founding Member & CTF Player for team '[W4NN4 B3 3L1735](https://ctftime.org/team/194276)' 
 - ⚡ Fun fact: I love to draw and play mobile games
 <img align="right" src="https://github.com/VirusZzHkP/VirusZzHkP/blob/main/img/VirusZzWarning.gif" alt="viruszzwarning logo">
 
 ---
 
 <a target="_blank" href="https://officialhrisikesh.000webhostapp.com/"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Website%20Status&logo=tryhackme&logoColor=white&style=flat-square&up_message=Online&url=https%3A%2F%2Fofficialhrisikesh.000webhostapp.com%2F">
-
 ![](https://komarev.com/ghpvc/?username=VirusZzHkP&style=flat-square&color=red)
 
   
@@ -93,6 +106,7 @@
 <a href="https://twitter.com/hrisikesh_pal" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/hrisikesh_pal?color=blue&logoColor=yellow&style=for-the-badge"></a>
 <a href="https://www.youtube.com/channel/UC8TBVNC_3-Qnk7Nj3zJMeNA?sub_confirmation=1" target="_blank"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC8TBVNC_3-Qnk7Nj3zJMeNA?style=for-the-badge"></a>
 <a href="https://viruszzwarning.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://dev.to/viruszzwarning" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
 
 
