@@ -8,7 +8,9 @@
 <img align="right" src="https://github.com/VirusZzHkP/VirusZzHkP/blob/main/img/VirusZzWarning.gif" alt="viruszzwarning logo">
 
 ---
+
 <a target="_blank" href="https://officialhrisikesh.000webhostapp.com/"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Website%20Status&logo=tryhackme&logoColor=white&style=flat-square&up_message=Online&url=https%3A%2F%2Fofficialhrisikesh.000webhostapp.com%2F">
+
 ![](https://komarev.com/ghpvc/?username=VirusZzHkP&style=flat-square&color=red)
 
   
@@ -30,13 +32,17 @@
 ---
 
 ### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
+<div>
+  <div align="left"><!-- BLOG-POST-LIST:START -->
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@viruszzwarning/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@viruszzwarning/0" alt="Recent Article 0"></a>
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@viruszzwarning/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@viruszzwarning/1" alt="Recent Article 1"></a>
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@viruszzwarning/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@viruszzwarning/2" alt="Recent Article 2"></a> <br>
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://viruszzwarning.medium.com/)
+
+  <div align="right"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/VirusZzHkP/VirusZzHkP/blob/main/devcard.svg" width="205" alt="Hrisikesh Pal's Dev Card"/></a>
+</div>
+</div></div>
 
 ---
 <h3>Things I code with</h3>
@@ -68,10 +74,8 @@
 </p>
 
 <p align="center">
-  
 <a href="https://github.com/VirusZzHkP"><img src="https://github-readme-stats.vercel.app/api?username=VirusZzHkP&count_private=true&show_icons=true&theme=midnight-purple&line_height=48&custom_title=Github_Stats&hide=stars&include_all_commits&card_width=205" align="center"></a>
 <a href="https://github.com/VirusZzHkP"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirusZzHkP&count_private=true&hide=html,scss,,ejs&theme=midnight-purple&card_width=205" align="center"></a>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/VirusZzHkP/VirusZzHkP/blob/main/devcard.svg" width="205" alt="Hrisikesh Pal's Dev Card"/></a>
 </p>
   
 
