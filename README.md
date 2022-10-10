@@ -70,10 +70,12 @@
 
 <p align="center">
   
-  <a href="https://github.com/VirusZzHkP"><img src="https://github-readme-stats.vercel.app/api?username=VirusZzHkP&count_private=true&show_icons=true&theme=midnight-purple&line_height=48&custom_title=Github_Stats&hide=stars&include_all_commits&card_width=205" align="center"></a>
-  <a href="https://github.com/VirusZzHkP"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirusZzHkP&count_private=true&hide=html,scss,,ejs&theme=midnight-purple&card_width=205" align="center"></a>
-<a href="https://devcard.link/XBlaQa"><img src="https://github.com/VirusZzHkP/VirusZzHkP/blob/main/img/VirusZzWarning.png" width="205" alt="Hrisikesh's Dev Card" align="center"/></a>
+<a href="https://github.com/VirusZzHkP"><img src="https://github-readme-stats.vercel.app/api?username=VirusZzHkP&count_private=true&show_icons=true&theme=midnight-purple&line_height=48&custom_title=Github_Stats&hide=stars&include_all_commits&card_width=205" align="center"></a>
+<a href="https://github.com/VirusZzHkP"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirusZzHkP&count_private=true&hide=html,scss,,ejs&theme=midnight-purple&card_width=205" align="center"></a>
+<a href="https://app.daily.dev/VirusZzWarning"><img src="https://api.daily.dev/devcards/d3474cfdb70a42cb88b5c81156f29d5c.png?r=jjr" width="205" alt="Hrisikesh Pal's Dev Card"/></a>
 </p>
+  
+
 
 <h3>Make sure to stay connected 🤗 </h3>
 <p><a href="https://github.com/VirusZzHkP" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
