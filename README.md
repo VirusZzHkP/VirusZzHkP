@@ -13,6 +13,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/hrisikesh"><img height="32px" alt="buymeacoffee" title="Buy me a coffee" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://t.me/viruszzwarning_bot"><img height="32px" alt="viruszzwarning_bot" title="Telegram bot" src="https://cdn5.cdn-telegram.org/file/EM8f-L5MXFonMxAq3edagFYkmIWVNg7nxOs-w8Vg1fNcswjWUxPVY1woWe9Pa7yXBPYm7_U1wW2t5_rUWlhuvBwjFRGrEz4NnSCbA-xn-8XE2--dwbP0XuefZmCIDinWUUawocsB1RRGO64y89_umdZTlfDS_NF7J9YEIM9LzsIDyaZyCLGRZjOZVGDpbFX7JQXoTzTaK-yccDpmXS3aqQaaVZXpBstLsAPu3WFA55ye-NoOHwWnHden416W8nI9wt9xP9t1jtY6JtXinV1RnG1M922WfQcPGXFFMVhPK0Y0Cp6sdS_1ZVSve4vanuNx2pvhwcLKWxu0-bEbtN7Fhg.jpg"></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
 
 
