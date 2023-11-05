@@ -5,7 +5,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC8TBVNC_3-Qnk7Nj3zJMeNA"><img height="32px" alt="JustHack IT" title="Youtube" src="https://www.linkpicture.com/q/Just_Hack_3_-removebg-preview.png"></a>
+  <a href="https://www.youtube.com/channel/UC8TBVNC_3-Qnk7Nj3zJMeNA"><img height="32px" alt="JustHack IT" title="Youtube" src="https://yt3.googleusercontent.com/wnYYjczTOT7shRluvsR4MyLJrotUbrsU0S5o-BtUtK4ORJm2Sod_0LveowG34QwG2wu84vC2Xg=s176-c-k-c0x00ffffff-no-rj"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/hrisikesh_pal"><img height="31px" alt="Twitter" title="Twitter" src="https://i.imgur.com/b4Nmq13.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
