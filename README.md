@@ -21,8 +21,6 @@
 
 - Founding Member & CTF Player for team '[W4NN4 B3 3L1735](https://ctftime.org/team/194276)' 
 - ⚡ Fun fact: I love to draw and play mobile games
-<img align="right" src="https://github.com/VirusZzHkP/VirusZzHkP/blob/main/img/VirusZzWarning.gif" alt="viruszzwarning logo">
-
 ---
 
 <a target="_blank" href="https://officialhrisikesh.000webhostapp.com/"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Website%20Status&logo=tryhackme&logoColor=white&style=flat-square&up_message=Online&url=https%3A%2F%2Fofficialhrisikesh.000webhostapp.com%2F"></a>
