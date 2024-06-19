@@ -82,7 +82,7 @@
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=F7F7F7&width=435&lines=My+DEV+Card...)](https://git.io/typing-svg)
 <div align="center">
-<a href="https://app.daily.dev/VirusZzWarning"><img src="https://github.com/VirusZzHkP/VirusZzHkP/blob/main/devcard.svg" width="270" alt="Hrisikesh Pal's Dev Card"/></a>
+<a href="https://app.daily.dev/VirusZzWarning"><img src="https://api.daily.dev/devcards/v2/pSTj0mNcRtlENxei9RRav.png?type=wide&r=xjx" width="652" alt="Hrisikesh Pal's Dev Card"/></a>
 </div>
 
 ---
