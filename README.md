@@ -6,7 +6,7 @@
 - Hacker, tool builder, OSINT enthusiast. This is my playground. 🛠️
 - Founding Member & CTF Player for team '[W4NN4 B3 3L1735](https://ctftime.org/team/194276)'
 - ⚡ Fun fact: I love playing with minds 👀
-- Let's Build Something Together!<br>I'm always open to new ideas and collaborations. If you have a project in mind or want to contribute to one of mine, feel free to open an issue or pull request.<br><br>Here are some potential project ideas to get you started:<br><br> 1. What else can be added in [The-Black-Tiger](https://github.com/VirusZzHkP/The-Black-Tiger)<br> 2. Projects on cybersecurity automation<br> 3. Projects on telegram bots that can help hackers/researchers. <br> You got some other ideas? feel free to connect me or just drop a [mail](mailto:viruszzwarning@proton.me)
+- Let's Build Something Together!<br>I'm always open to new ideas and collaborations. If you have a project in mind or want to contribute to one of mine, feel free to open an issue or pull request.<br><br>Here are some potential project ideas to get you started:<br><br> 1. What else can be added in [The-Black-Tiger](https://github.com/VirusZzHkP/The-Black-Tiger)<br> 2. Projects on cybersecurity automation<br> 3. Projects on telegram bots that can help hackers/researchers. <br> Do you have any other ideas? Feel free to contact me or just send me an [email](mailto:viruszzwarning@proton.me)
 
 ---
   
