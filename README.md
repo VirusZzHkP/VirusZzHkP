@@ -1,3 +1,4 @@
+![Header](./header.png)
 # Hi, I'm Hrisikesh Pal - aka VirusZzWarning  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="39"> 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20Student;OSINT%20Lover;Independent%20Researcher;&font=Fira%20Code&center=true&width=440&height=45&color=F7D300Center=true&size=22&pause=1000"></a>
